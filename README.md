@@ -1,6 +1,6 @@
 # 🔗 URL Shortener
 
-A full-stack, scalable URL Shortener built with **React** and **Spring Boot**, featuring user authentication (JWT), analytics dashboard, and clean UI. Create short links, track usage, and manage URLs with ease — perfect for showcasing your skills to FAANG recruiters 🚀
+A full-stack, scalable URL Shortener built with **React** and **Spring Boot**
 
 ## ⚙️ Tech Stack
 
